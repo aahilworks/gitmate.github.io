@@ -1,2 +1,2 @@
-# gitmate.github.io
+# Walkie-talkie
 Website For GitMate
